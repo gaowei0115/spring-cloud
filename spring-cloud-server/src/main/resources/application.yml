@@ -1,0 +1,10 @@
+#### server setting #####
+server:
+  port:8080
+#### spring cloud config #####
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/gaowei0115/spring-cloud-config.git
