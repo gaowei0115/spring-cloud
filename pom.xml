@@ -19,6 +19,7 @@
         <module>spring-cloud-client</module>
         <module>spring-boot-base</module>
         <module>spring-cloud-register</module>
+        <module>spring-boot-dubbo</module>
     </modules>
 
 
